@@ -1,6 +1,8 @@
 # Comparative assessment of image super-resolution techniques for spatial downscaling of IMD Gridded Rainfall Data
 
-This repository consists of data and code made for our research paper "Comparative assessment of image super-resolution techniques for spatial downscaling of IMD Gridded Rainfall Data".
+This repository consists of data and code made for our research paper: <br><br>
+"Comparative assessment of image super-resolution techniques for spatial downscaling of IMD Gridded Rainfall Data", <br>
+Sreevathsa Golla, Pankaj Kumar, Midhun M (2023). _(Submitted in Computers and Geosciences, Elsevier)_
 
 **ABSTRACT**:
 
