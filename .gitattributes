@@ -1,0 +1,5 @@
+ANALYSIS/SISR_Outputs.nc filter=lfs diff=lfs merge=lfs -text
+DATA/RF_INTERPBIC_025_2016_2021.nc filter=lfs diff=lfs merge=lfs -text
+DATA/Testing_2016-2021_Scaled.npz filter=lfs diff=lfs merge=lfs -text
+DATA/Training_1959-2015_Scaled.npz filter=lfs diff=lfs merge=lfs -text
+MODEL_RUNS/EXP001_AUTOENC/EXP001_AUTOENC_best_model.h5 filter=lfs diff=lfs merge=lfs -text
